@@ -9,7 +9,7 @@ const { lightningChart, AxisTickStrategies, SolidFill, SolidLine, ColorRGBA, Col
     lcjs
 
 // Create a XY Chart.
-const chart = lightningChart({license: '0002-aAgQt777ulf8GBrj/+3CiDwJJ85sBwAJELGq47hD-MEUCIDpBIa0oWQ6OVJJjLAlFlFj0gj41uUyLHJS1jZzngeJIAiEAuBX15C5WnqrehXGhCFVVADA8v6okC3Ff54m9ogK5r0Y='}).ChartXY({
+const chart = lightningChart({license: 'xxxx-xxxxx-xxx'}).ChartXY({
     theme: Themes.cyberSpace,
 }).setTitle('Daily temperature range, April 2019')
 
