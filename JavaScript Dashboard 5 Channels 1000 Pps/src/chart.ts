@@ -18,7 +18,7 @@ const channelCount = channels.length
 
 // Create Dashboard.
 // NOTE: Using `Dashboard` is no longer recommended for new applications. Find latest recommendations here: https://lightningchart.com/js-charts/docs/basic-topics/grouping-charts/
-const grid = lightningChart({license: '0002-aAgQt777ulf8GBrj/+3CiDwJJ85sBwAJELGq47hD-MEUCIDpBIa0oWQ6OVJJjLAlFlFj0gj41uUyLHJS1jZzngeJIAiEAuBX15C5WnqrehXGhCFVVADA8v6okC3Ff54m9ogK5r0Y='}).Dashboard({
+const grid = lightningChart({license: 'xxxx-xxxx-xxxx'}).Dashboard({
     theme: Themes.cyberSpace,
     numberOfRows: channelCount,
     numberOfColumns: 1,
